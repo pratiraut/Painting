@@ -13,8 +13,32 @@ This is data analysis project in SQL
 
 
 ## Process:
+- Importing a Data
+- 
+- Understand the Data
+
+  ```sql
+  SELECT * FROM artist;
+  SELECT * FROM canvas_size;
+  SELECT * FROM image_link;
+  SELECT * FROM museum_hours;
+  SELECT * FROM museum;
+  SELECT * FROM product_size;
+  SELECT * FROM subject;
+  SELECT * FROM works;
+  ```
+  
+- Data Cleaning
+- Exploratory Data Analysis
+- Data Retrieval
+
+   Data Retrieval is the process of identifying and extracting data from a database, based on a query provided by the user or application.
+  
+      
 
 
+
+  
 ```sql
 select * 
 	from (
