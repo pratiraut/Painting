@@ -14,12 +14,12 @@ Dive into the fascinating world of art with our SQL data analysis project, "Expl
 4. Delete 
 
 ## Problem Statement:
- 1. Top 10 most famous painting subject.
- 2. Top 5 most popular museum and artist.
- 3. Which the country and the city with most no of museums.
- 4. Which museum has the most no of most popular painting style.
- 5. Which artist has the most no of Portraits paintings outside USA.
- 6. Which country has the 5th highest no of paintings.
+ 1. Top 10 most famous painting subjects.
+ 2. Top 5 most popular museums and artists.
+ 3. Which country and city with almost no museums?
+ 4. Which museum has the most no of most popular painting style?
+ 5. Which artist has the most no of Portrait paintings outside USA?
+ 6. Which country has the 5th highest no of paintings?
 
 
 ## Process:
