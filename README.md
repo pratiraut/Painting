@@ -1,9 +1,9 @@
-# Painting
+# Exploring Artistry through Data
 
 Dive into the fascinating world of art with our SQL data analysis project, "Exploring Artistry through Data," featuring an extensive dataset comprising eight tables. Each table serves as a unique portal, offering insights into different facets of famous paintings and their illustrious creators. Through the lens of structured data analysis, this comprehensive collection, unraveling relationships and patterns that enrich our understanding of artistic evolution.This data-driven journey, where the synergy of SQL and art unveils the hidden stories within these tables, painting a vivid picture of the intricate connections between iconic masterpieces and the brilliant minds behind them.
 
 
-### Dataset: [link](https://www.kaggle.com/datasets/mexwell/famous-paintings?resource=download&select=work.csv)
+### Dataset: [Famous Paintings](https://www.kaggle.com/datasets/mexwell/famous-paintings?resource=download&select=work.csv)
 
 
 
